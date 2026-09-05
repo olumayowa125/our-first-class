@@ -1,2 +1,2 @@
-this class is goiung to be continued tomorrow
+class is going to start by 6pm 
 

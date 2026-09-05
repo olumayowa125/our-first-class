@@ -1,2 +1,2 @@
-# our-first-class
-this is our first class
+this class has been changed 
+
